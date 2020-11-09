@@ -1,48 +1,12 @@
 ## Objectives
 
-In this Simple project, we are going to consume the API of open weather using POSTMAN.
+
+In this Task, we're going to Convert the  entity relationship model to a relational diagram.
 
 ### Instructions
+After the construction of his hotels in one of the tourist areas, a director wishes to prepare a database to facilitate the management of his data.
 
-Check the link below for open weather map API:
-
-https://openweathermap.org/api
-
-Use that API, to try to get the weather of different cities on different times
-
-##### PS: Read open weather API documentation.
-
- 
+The director has presented the following information to you through the entity relationship model.
 
 
-#### Screenshots with POSTMAN and Navigator
-
-##### Get the weather of Paris
-- With POSTMAN
-![Getting Started](./screenshots/paris.JPG)
-- In browser (localhost:5000)
-![Getting Started](./screenshots/paris.JPG)
-
-##### Get the weather of Berlin
-- With POSTMAN
-![Getting Started](./screenshots/berlin.JPG)
-- In browser (localhost:5000)
-![Getting Started](./screenshots/berlin1.JPG)
-
-##### Get the weather of London
-- With POSTMAN
-![Getting Started](./screenshots/london.JPG)
-- In browser (localhost:5000)
-![Getting Started](./screenshots/london1.JPG)
-
-##### Get the weather of New York
-- With POSTMAN
-![Getting Started](./screenshots/newyork.JPG)
-- In browser (localhost:5000)
-![Getting Started](./screenshots/newyork.JPG)
-
-##### Get the weather of wrong name city
-- With POSTMAN
-![Getting Started](./screenshots/notfound.JPG)
-- In browser (localhost:5000)
-![Getting Started](./screenshots/notfound1.JPG)
+![Getting Started](./entity.png)
